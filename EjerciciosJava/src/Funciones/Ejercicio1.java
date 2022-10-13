@@ -8,6 +8,14 @@ public class Ejercicio1 {
 
     public static void main(String[] args) {
 
+
+        tablademultiplicar();
+
+
+
+    }
+
+    public static void tablademultiplicar() {
         System.out.println("Digite un numero entero entre el 1 al 9:");
 
         Scanner entrada= new Scanner(System.in);
@@ -31,8 +39,7 @@ public class Ejercicio1 {
         else {
             System.out.println("Error!");
         }
-
-
     }
+
 
 }

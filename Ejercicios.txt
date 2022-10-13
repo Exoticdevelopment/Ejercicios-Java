@@ -10,3 +10,15 @@ Si el usuario tiene 18 años o más, y tiene carnet de conducir,
  el programa tiene que pintar por pantalla un mensaje con el nombre del usuario y 
 diciendo que está autorizado para conducir un coche. Para el resto de posibilidades, escribe el mensaje que estimes más oportuno.
 ---------------------------------------------------------------
+If y Else:
+----------------------------------------------------------------
+1.El director de una escuela está organizando un viaje de estudios y requiere determinar cuánto debe cobrar a cada alumno y cuánto debe pagar a la compañía de viajes por el servicio. La forma de cobrar es la siguiente:
+* Si son 100 alumnos o más, el costo por cada alumno es de 65 euros.
+* De 50 a 99 alumnos, el costo es de 70 euros.
+* De 30 a 49 alumnos, el costo es de 95 euros.
+* Menos de 30 alumnos, el costo de la renta del autobús es de 4000 euros, sin importar el número de alumnos.
+Realiza un algoritmo que permita determinar el pago a la compañía de autobuses y lo que debe pagar cada alumno por el viaje.
+2.La asociación de vinicultores tiene como política fijar un precio inicial al kilo de uva, la cual se clasifica en tipos (A y B), y además en tamaños (1 y 2). Cuando se realiza la venta del producto, ésta es de un sólo tipo y tamaño, se requiere determinar cuanto recibirá un productor por la uva que entrega en un embarque considerando lo siguiente:
+* Si es de tipo A, se le cargan 20 céntimos al precio inicial cuando es de tamaño 1 y 30 céntimos si es de tamaño 2.
+* Si es de tipo B, se rebajan 30 céntimos cuando es de tamaño 1, y 50 céntimos cuando es de tamaño 2.
+-----------------------------------------------------------------

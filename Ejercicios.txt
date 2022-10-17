@@ -33,5 +33,8 @@ Para números divisibles por 5, imprimir “Buzz”.
 Para números divisibles por 3 y 5, imprimir “FizzBuzz”.
 En cualquier otro caso, imprimir el número.
 --------------------------------------------------------------------
+while
+--------------------------------------------------------------------
+1.Interactuemos un poco con el usuario final pidiéndole un valor inicial y un valor final por consola, e incrementemos el valor inicial dado hasta el tope establecido, mostrando el valor de la variable contadora en cada iteracion.
 
 

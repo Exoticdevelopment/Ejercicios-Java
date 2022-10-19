@@ -36,5 +36,10 @@ En cualquier otro caso, imprimir el número.
 while
 --------------------------------------------------------------------
 1.Interactuemos un poco con el usuario final pidiéndole un valor inicial y un valor final por consola, e incrementemos el valor inicial dado hasta el tope establecido, mostrando el valor de la variable contadora en cada iteracion.
-
+2. En este programa se ingresara un valor de n y nos muestra los primeros
+numeros naturales
+----------------------------------------------------------------------
+do while
+----------------------------------------------------------------------
+1.Realiza un programa en Java que lea dos números pasados por teclado en un proceso repetitivo. Este proceso terminará cuando los números leídos sean iguales.
 
